@@ -1,0 +1,13 @@
+C:\Users\Emiliano\source\repos\encriptacion PBKDF2\bin\Debug\netcoreapp3.1\encriptacion PBKDF2.exe
+C:\Users\Emiliano\source\repos\encriptacion PBKDF2\bin\Debug\netcoreapp3.1\encriptacion PBKDF2.deps.json
+C:\Users\Emiliano\source\repos\encriptacion PBKDF2\bin\Debug\netcoreapp3.1\encriptacion PBKDF2.runtimeconfig.json
+C:\Users\Emiliano\source\repos\encriptacion PBKDF2\bin\Debug\netcoreapp3.1\encriptacion PBKDF2.runtimeconfig.dev.json
+C:\Users\Emiliano\source\repos\encriptacion PBKDF2\bin\Debug\netcoreapp3.1\encriptacion PBKDF2.dll
+C:\Users\Emiliano\source\repos\encriptacion PBKDF2\bin\Debug\netcoreapp3.1\encriptacion PBKDF2.pdb
+C:\Users\Emiliano\source\repos\encriptacion PBKDF2\obj\Debug\netcoreapp3.1\encriptacion PBKDF2.csprojAssemblyReference.cache
+C:\Users\Emiliano\source\repos\encriptacion PBKDF2\obj\Debug\netcoreapp3.1\encriptacion PBKDF2.AssemblyInfoInputs.cache
+C:\Users\Emiliano\source\repos\encriptacion PBKDF2\obj\Debug\netcoreapp3.1\encriptacion PBKDF2.AssemblyInfo.cs
+C:\Users\Emiliano\source\repos\encriptacion PBKDF2\obj\Debug\netcoreapp3.1\encriptacion PBKDF2.csproj.CoreCompileInputs.cache
+C:\Users\Emiliano\source\repos\encriptacion PBKDF2\obj\Debug\netcoreapp3.1\encriptacion PBKDF2.dll
+C:\Users\Emiliano\source\repos\encriptacion PBKDF2\obj\Debug\netcoreapp3.1\encriptacion PBKDF2.pdb
+C:\Users\Emiliano\source\repos\encriptacion PBKDF2\obj\Debug\netcoreapp3.1\encriptacion PBKDF2.genruntimeconfig.cache
