@@ -20,7 +20,7 @@ namespace encriptacion_PBKDF2
             Console.WriteLine(clave);
      
             Console.WriteLine("Clave Enciptada:");
-            Console.WriteLine(encriptar.Encrypt(datos));
+            Console.WriteLine(encriptar.Encrypt(clave));
 
             Console.ReadLine();
         }       
