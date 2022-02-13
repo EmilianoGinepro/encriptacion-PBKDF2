@@ -9,7 +9,7 @@ namespace encriptacion_PBKDF2
         //generar string de letras random
         public string stringRandom()
         { 
-        var charactersString = "abcdefghijklmnopqrstuvwxyz";
+        var charactersString = "ABCDEFGHIJKLMNOPQRSTUVXWYZ";
         var CharsarrString = new char[5];
         var random = new Random();
 
